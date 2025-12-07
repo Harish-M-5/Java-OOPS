@@ -66,6 +66,7 @@ Showing essential features and hiding the internal implementation using abstract
 ## 🔄 Working Procedure 
 
 - 1️⃣ Class & Object
+
 **Step 1:** Create a class with variables and methods.  
 **Step 2:** Create an object from the class using the `new` keyword.  
 **Step 3:** Access the class methods through the object.  
@@ -78,6 +79,7 @@ Output
 
 
 - 2️⃣ Encapsulation
+
 **Step 1:** Declare class variables as `private`.  
 **Step 2:** Create `public` getter and setter methods.  
 **Step 3:** Access data only through these methods.  
@@ -90,6 +92,7 @@ output
 
 
 - 3️⃣ Inheritance
+
 **Step 1:** Create a parent class with common methods and variables.  
 **Step 2:** Create a child class using `extends`.  
 **Step 3:** Child class automatically inherits parent features.  
@@ -101,6 +104,7 @@ output
 
 
 - 4️⃣ Polymorphism
+
 **Step 1:** Implement method overloading (same method, different parameters).  
 **Step 2:** Implement  method overriding in a child class.  
 **Step 3:** Use parent reference → child object (`Parent obj = new Child();`).  
@@ -112,6 +116,7 @@ Output
 
 
 - 5️⃣ Abstraction
+
 **Step 1:** Create an abstract class or interface.  
 **Step 2:** Add abstract methods   
 **Step 3:** Create a subclass and implement the abstract methods.  
