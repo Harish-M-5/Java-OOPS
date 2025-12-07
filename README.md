@@ -23,18 +23,18 @@ Each concept includes a separate Java file with clean example code.
 
 ## ⚙️ Project Setup
 
-### 1️⃣ Install Java (JDK)
+- 1️⃣ Install Java (JDK)
 Download and install JDK.  
 Verify installation:
 Java Version
 
-### 2️⃣  VS Code 
+- 2️⃣  VS Code 
 Install “Extension Pack for Java”.
 
-### 3️⃣ Clone the Repository
+- 3️⃣ Clone the Repository
 git clone <java-oops-repo>
 
-### 4️⃣ Run the Java Files
+- 4️⃣ Run the Java Files
 Open the project folder in VS Code and run:
 Java FileName.java
 
@@ -58,14 +58,14 @@ One class (child) reuses the properties and methods of another class (parent).
 - Polymorphism
 Same method name behaving differently (method overloading and overriding).
 
-### 📌 Abstraction
+- Abstraction
 Showing essential features and hiding the internal implementation using abstract classes & interfaces
 
 ---
 
-## 🔄 Working Procedure (Step-by-Step)
+## 🔄 Working Procedure 
 
-### 1️⃣ Class & Object
+- 1️⃣ Class & Object
 **Step 1:** Create a class with variables and methods.  
 **Step 2:** Create an object from the class using the `new` keyword.  
 **Step 3:** Access the class methods through the object.  
@@ -76,7 +76,8 @@ Output
 <img width="1559" height="161" alt="Screenshot 2025-12-06 193337" src="https://github.com/user-attachments/assets/48266304-32dd-4cd4-9dbf-504d74d5d7d0" />
 
 
-### 2️⃣ Encapsulation
+
+- 2️⃣ Encapsulation
 **Step 1:** Declare class variables as `private`.  
 **Step 2:** Create `public` getter and setter methods.  
 **Step 3:** Access data only through these methods.  
@@ -88,7 +89,7 @@ output
 <img width="1559" height="161" alt="Screenshot 2025-12-06 193337" src="https://github.com/user-attachments/assets/0d6acf2f-714d-491f-94c7-ab20e607126b" />
 
 
-### 3️⃣ Inheritance
+- 3️⃣ Inheritance
 **Step 1:** Create a parent class with common methods and variables.  
 **Step 2:** Create a child class using `extends`.  
 **Step 3:** Child class automatically inherits parent features.  
@@ -99,7 +100,7 @@ output
 <img width="1919" height="103" alt="Screenshot 2025-12-06 194448" src="https://github.com/user-attachments/assets/9ab51e34-db99-44a4-ba3d-8627f60772b1" />
 
 
-### 4️⃣ Polymorphism
+- 4️⃣ Polymorphism
 **Step 1:** Implement method overloading (same method, different parameters).  
 **Step 2:** Implement  method overriding in a child class.  
 **Step 3:** Use parent reference → child object (`Parent obj = new Child();`).  
@@ -110,7 +111,7 @@ Output
 <img width="1579" height="152" alt="Screenshot 2025-12-06 194646" src="https://github.com/user-attachments/assets/4d80d1d7-9800-4c12-98ea-3b27123bef4c" />
 
 
-### 5️⃣ Abstraction
+- 5️⃣ Abstraction
 **Step 1:** Create an abstract class or interface.  
 **Step 2:** Add abstract methods   
 **Step 3:** Create a subclass and implement the abstract methods.  
