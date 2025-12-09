@@ -3,7 +3,7 @@ Java OOPs focuses on building programs using real-world concepts like Classes, O
 
 ---
 ## 📌 Introduction
-This repository contains simple Java programs that explain the core Object-Oriented Programming (OOPS) concepts in a beginner-friendly way.
+This repository contains simple Java programs that explain the core Object-Oriented Programming (OOPS) concepts in a beginner-friendly way
 
 ## 📘 Overview
 This project covers the major OOP pillars in Java:
